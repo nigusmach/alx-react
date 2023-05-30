@@ -1,1 +1,1 @@
- project on 0x04-Reac inline styling
+ project on 0x04 React inline styling
